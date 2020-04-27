@@ -2,13 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
+1) Two command prompts required to run server and client respectively. (Concurrent run is not configured).
+2) On spaceapp directory, run the command: "npm run start" to start the server. You can browse to localhost:4000/graphiql for API query.
+3) On client directory, run the command: "npm run dev" to start the client. You can then browse to localhost:3000 to access the website.
+4) P.S. Thanks for the opportunity given.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
